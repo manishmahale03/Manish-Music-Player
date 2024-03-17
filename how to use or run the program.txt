@@ -1,0 +1,25 @@
+Manish Music Player 
+Name: Manish Vasant Mahale
+From third year CSE
+
+
+
+step 1: Downlod the zip folder.
+step 2: Extract the downloaded zip folder.
+step 3: Open the extracted folder in visual studio code, py champ, etc.
+step 4: Download the all libraries in the above program.
+	like    1) pip install os
+		2) pip install threading
+		3) pip install time
+		4) pip install python-tk
+		5) pip install ttkthemes
+		6) pip install pygame
+		7) pip install mutagen
+step 5: Run the Program
+step 6: After the program sucessfully executed then open the new Manish Music Player windown
+step 7: add the any music in .mp3 format 
+step 8: After the add music in Manish Music Player. 
+step 9: select the music and click on the play button
+step 10: In this program we can use the some options, like play, pasuse, rewind, volume up or down, add music, delete music.
+step 11: exit the music player 
+	 goto file menu then exit
